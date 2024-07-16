@@ -1,3 +1,9 @@
+### 0. Clone the repo
+
+```
+$ git clone https://github.com/agustin-recoba/hadoop-cluster-docker.git
+```
+
 ### 1. Create docker network
 
 ```
